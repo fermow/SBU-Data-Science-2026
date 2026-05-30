@@ -1,5 +1,0 @@
-data/**/*.csv
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-jupyter_notebooks_and_reports/**/*.tex
-jupyter_notebooks_and_reports/**/figures/
