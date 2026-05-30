@@ -1,0 +1,10 @@
+# checkpoints (global)
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# assignments data
+Assignment_*/data/**/*.csv
+
+# reports
+Assignment_*/jupyter_notebooks_and_reports/**/*.tex
+Assignment_*/jupyter_notebooks_and_reports/**/figures/
