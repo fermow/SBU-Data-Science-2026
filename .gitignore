@@ -8,3 +8,5 @@ Assignment_*/data/**/*.csv
 # reports
 Assignment_*/jupyter_notebooks_and_reports/**/*.tex
 Assignment_*/jupyter_notebooks_and_reports/**/figures/
+Assignment_*/jupyter_notebook_and_reports/**/*.tex
+Assignment_*/jupyter_notebook_and_reports/**/figures/

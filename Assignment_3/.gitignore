@@ -1,0 +1,10 @@
+# checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# data
+data/**/*.csv
+
+# reports
+jupyter_notebook_and_reports/**/*.tex
+jupyter_notebook_and_reports/**/figures/
