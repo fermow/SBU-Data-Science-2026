@@ -1,3 +1,7 @@
+# checkpoints (global)
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
 # assignments data
 Assignment_*/data/**/*.csv
 
