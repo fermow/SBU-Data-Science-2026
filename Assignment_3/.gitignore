@@ -6,5 +6,5 @@
 data/**/*.csv
 
 # reports
-jupyter_notebook_and_reports/**/*.tex
-jupyter_notebook_and_reports/**/figures/
+notebooks/**/*.tex
+notebooks/**/figures/
