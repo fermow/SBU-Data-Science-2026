@@ -2,6 +2,9 @@
 **/.ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# catboost temp files
+**/catboost_info/
+
 # assignments data
 Assignment_*/data/**/*.csv
 
